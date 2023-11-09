@@ -1,0 +1,4 @@
+netstat -bno | find "8080"
+
+
+taskkill /pid #### /f
