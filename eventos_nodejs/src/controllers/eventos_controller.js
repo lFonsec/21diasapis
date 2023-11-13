@@ -68,6 +68,4 @@ module.exports = class EventosController{
     res.status(204).send("");
   }
 
-
-
 }
